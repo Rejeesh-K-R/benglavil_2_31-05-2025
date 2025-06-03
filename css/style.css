@@ -367,7 +367,7 @@ header.smaller #mainmenu ul ul {
 header.smaller {
   position: fixed;
   top: 0px;
-  background: var(--bg-dark-1);
+  background: #0f1620;
   border: none;
 }
 
@@ -2034,7 +2034,7 @@ header.s2 #mainmenu>li>a {
 
 header.header-mobile {
   position: fixed !important;
-  background: var(--title-font-color);
+  background: #0f1620;
   top: 0;
   padding-bottom: 10px;
 }
@@ -2103,7 +2103,7 @@ header.header-light .logo-2 {
   width: 100%;
   overflow: hidden;
   top: 0;
-  background: var(--bg-dark-1);
+  background: #0f1620;
 }
 
 #topbar.topbar-dark {
